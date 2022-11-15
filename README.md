@@ -1,5 +1,5 @@
-# Code is there for humans, not computers, to understand.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuthuycoding&bg_color=30,19c9fa,1977fa&title_color=fff&text_color=fff">
-</p>
+<h1 style="text-align:center">
+  Code is there for humans, not computers, to understand.
+</h1>
+<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api?username=phuthuycoding&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<img align="center" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuthuycoding&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
