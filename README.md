@@ -24,5 +24,3 @@ echo 'Code is there for humans, not computers, to understand.';
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phuthuycoding&rank=-C,-B&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://app.daily.dev/phuthuycoding"><img src="https://api.daily.dev/devcards/d6368c4ccd38482ab9db79f3a90c2d05.png?r=aam" width="400" alt="Mạnh Quyền Tạ's Dev Card"/></a>
